@@ -6,7 +6,7 @@
 #### 技术栈
 - 数据库：Mysql，SqlServer  
 - 后端：nodejs，express，EggJs
-- 前端：HTML无框架开发，TypeScript，Vue2，Vue3，react，uniApp，Taro，小程序原生
+- 前端：HTML、js、css无框架开发，TypeScript，Vue2，Vue3，react，uniApp，Taro，小程序原生
 - 运维：nginx，tomcat
 - 额外知识了解：electron，NwJs，flutter
 #### 个人情况
