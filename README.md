@@ -2,7 +2,9 @@
 2018年10月凭借个人express + ejs + vue自学网站转职前端（原软件实施2年）
 1994.03.29，浙江诸暨市人，现居南京  
 毕业院校：南昌职业学院，软件设计班，毕业（2016-06）  
-有问题直接在git上面问
+有问题直接在git上面问  
+- 掘金（海天酱油_htSauce）：https://juejin.cn/user/1873223545523101
+- 个人网站：https://dht.red(维护较少，现在像个技术试验场)
 #### 技术栈
 - 数据库：Mysql，SqlServer  
 - 后端：nodejs，express，EggJs
