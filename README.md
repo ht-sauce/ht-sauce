@@ -13,3 +13,7 @@
 - 前端：HTML、js、css无框架开发，TypeScript，Vue2，Vue3，react，uniApp，Taro，小程序原生
 - 运维：nginx，tomcat
 - 额外知识了解：electron，NwJs，flutter，cocos
+#### 游戏
+- 原神58级
+- 英雄联盟10年玩家
+- 云顶之弈（金铲铲）
